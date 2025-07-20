@@ -1,0 +1,59 @@
+# requirements.txt (fixed version - no dependency conflicts)
+
+# Core web scraping
+selenium==4.15.2
+webdriver-manager==4.0.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Translation APIs (choose one or more)
+googletrans==4.0.0rc1          # Free Google Translate (unofficial)
+deep-translator==1.11.4        # Alternative free translator
+# google-cloud-translate==3.12.1  # Paid Google Cloud API (uncomment if needed)
+# azure-cognitiveservices-language-translator==3.0.0  # Paid Azure API (uncomment if needed)
+
+# Text processing and utilities
+lxml==4.9.3                    # XML/HTML parsing
+urllib3==2.0.7                 # URL handling
+certifi==2023.7.22            # SSL certificates
+
+# Windows compatibility fixes
+pywin32==306; sys_platform == "win32"  # Windows registry access
+pypiwin32==223; sys_platform == "win32" # Additional Windows support
+
+# Note: msedge-selenium-tools is not needed for Selenium 4+
+# Selenium 4+ has built-in support for Edge WebDriver
+# The EdgeService is imported directly from selenium.webdriver.edge.service
+
+# Development and debugging (optional)
+# ipython==8.18.1              # Better interactive shell
+# jupyter==1.0.0
+
+# Updated requirements.txt for Selenium 4+ compatibility
+
+# Core web scraping
+selenium==4.15.2
+webdriver-manager==4.0.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Translation APIs
+googletrans==4.0.0rc1
+deep-translator==1.11.4
+
+# Text processing and utilities
+lxml==4.9.3
+urllib3==2.0.7
+certifi==2023.7.22
+
+# BrowserStack testing dependencies
+browserstack-local==1.2.7
+pytest==7.4.3
+pytest-xdist==3.3.1
+
+# Windows compatibility fixes
+pywin32==306; sys_platform == "win32"
+pypiwin32==223; sys_platform == "win32"
+
+# Additional utilities
+python-dotenv==1.0.0

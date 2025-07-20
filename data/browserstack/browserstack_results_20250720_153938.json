@@ -1,0 +1,182 @@
+[
+  {
+    "browser": "Firefox macOS Desktop Test",
+    "status": "passed",
+    "articles_count": 5,
+    "articles": [
+      {
+        "title": "Corrupción en el sistema",
+        "url": "https://elpais.com/opinion/2025-07-20/corrupcion-en-el-sistema.html",
+        "index": 1
+      },
+      {
+        "title": "Un proyecto falto de ambición",
+        "url": "https://elpais.com/opinion/2025-07-19/un-proyecto-falto-de-ambicion.html",
+        "index": 2
+      },
+      {
+        "title": "Cuando la edición falla: el desafío de escribir bien en tiempos de inmediatez",
+        "url": "https://elpais.com/defensor-a-del-lector/2025-07-20/cuando-la-edicion-falla-el-desafio-de-escribir-bien-en-tiempos-de-inmediatez.html",
+        "index": 3
+      },
+      {
+        "title": "Por una Europa que resista",
+        "url": "https://elpais.com/opinion/2025-07-20/por-una-europa-que-resista.html",
+        "index": 4
+      },
+      {
+        "title": "‘Aquel verano raro’",
+        "url": "https://elpais.com/opinion/2025-07-14/aquel-verano-raro.html",
+        "index": 5
+      }
+    ],
+    "translated_titles": [
+      "Corruption in the system"
+    ],
+    "execution_time": 22.0340633392334,
+    "session_url": null,
+    "timestamp": "2025-07-20T15:39:25.763925"
+  },
+  {
+    "browser": "Safari macOS Desktop Test",
+    "status": "passed",
+    "articles_count": 5,
+    "articles": [
+      {
+        "title": "Corrupción en el sistema",
+        "url": "https://elpais.com/opinion/2025-07-20/corrupcion-en-el-sistema.html",
+        "index": 1
+      },
+      {
+        "title": "Un proyecto falto de ambición",
+        "url": "https://elpais.com/opinion/2025-07-19/un-proyecto-falto-de-ambicion.html",
+        "index": 2
+      },
+      {
+        "title": "Cuando la edición falla: el desafío de escribir bien en tiempos de inmediatez",
+        "url": "https://elpais.com/defensor-a-del-lector/2025-07-20/cuando-la-edicion-falla-el-desafio-de-escribir-bien-en-tiempos-de-inmediatez.html",
+        "index": 3
+      },
+      {
+        "title": "Por una Europa que resista",
+        "url": "https://elpais.com/opinion/2025-07-20/por-una-europa-que-resista.html",
+        "index": 4
+      },
+      {
+        "title": "‘Aquel verano raro’",
+        "url": "https://elpais.com/opinion/2025-07-14/aquel-verano-raro.html",
+        "index": 5
+      }
+    ],
+    "translated_titles": [
+      "Corruption in the system"
+    ],
+    "execution_time": 28.056679487228394,
+    "session_url": null,
+    "timestamp": "2025-07-20T15:39:29.340303"
+  },
+  {
+    "browser": "Safari iOS Mobile Test",
+    "status": "passed",
+    "articles_count": 3,
+    "articles": [
+      {
+        "title": "Corrupción en el sistema",
+        "url": "https://elpais.com/opinion/2025-07-20/corrupcion-en-el-sistema.html",
+        "index": 1
+      },
+      {
+        "title": "Un proyecto falto de ambición",
+        "url": "https://elpais.com/opinion/2025-07-19/un-proyecto-falto-de-ambicion.html",
+        "index": 2
+      },
+      {
+        "title": "Cuando la edición falla: el desafío de escribir bien en tiempos de inmediatez",
+        "url": "https://elpais.com/defensor-a-del-lector/2025-07-20/cuando-la-edicion-falla-el-desafio-de-escribir-bien-en-tiempos-de-inmediatez.html",
+        "index": 3
+      }
+    ],
+    "translated_titles": [
+      "Corruption in the system"
+    ],
+    "execution_time": 22.78780722618103,
+    "session_url": null,
+    "timestamp": "2025-07-20T15:39:34.722329"
+  },
+  {
+    "browser": "Chrome Android Mobile Test",
+    "status": "passed",
+    "articles_count": 5,
+    "articles": [
+      {
+        "title": "Corrupción en el sistema",
+        "url": "https://elpais.com/opinion/2025-07-20/corrupcion-en-el-sistema.html",
+        "index": 1
+      },
+      {
+        "title": "Un proyecto falto de ambición",
+        "url": "https://elpais.com/opinion/2025-07-19/un-proyecto-falto-de-ambicion.html",
+        "index": 2
+      },
+      {
+        "title": "Cuando la edición falla: el desafío de escribir bien en tiempos de inmediatez",
+        "url": "https://elpais.com/defensor-a-del-lector/2025-07-20/cuando-la-edicion-falla-el-desafio-de-escribir-bien-en-tiempos-de-inmediatez.html",
+        "index": 3
+      },
+      {
+        "title": "Por una Europa que resista",
+        "url": "https://elpais.com/opinion/2025-07-20/por-una-europa-que-resista.html",
+        "index": 4
+      },
+      {
+        "title": "‘Aquel verano raro’",
+        "url": "https://elpais.com/opinion/2025-07-14/aquel-verano-raro.html",
+        "index": 5
+      }
+    ],
+    "translated_titles": [
+      "Corruption in the system"
+    ],
+    "execution_time": 25.367066144943237,
+    "session_url": null,
+    "timestamp": "2025-07-20T15:39:37.006584"
+  },
+  {
+    "browser": "Chrome Windows 11 Desktop Test",
+    "status": "passed",
+    "articles_count": 5,
+    "articles": [
+      {
+        "title": "Corrupción en el sistema",
+        "url": "https://elpais.com/opinion/2025-07-20/corrupcion-en-el-sistema.html",
+        "index": 1
+      },
+      {
+        "title": "Un proyecto falto de ambición",
+        "url": "https://elpais.com/opinion/2025-07-19/un-proyecto-falto-de-ambicion.html",
+        "index": 2
+      },
+      {
+        "title": "Cuando la edición falla: el desafío de escribir bien en tiempos de inmediatez",
+        "url": "https://elpais.com/defensor-a-del-lector/2025-07-20/cuando-la-edicion-falla-el-desafio-de-escribir-bien-en-tiempos-de-inmediatez.html",
+        "index": 3
+      },
+      {
+        "title": "Por una Europa que resista",
+        "url": "https://elpais.com/opinion/2025-07-20/por-una-europa-que-resista.html",
+        "index": 4
+      },
+      {
+        "title": "‘Aquel verano raro’",
+        "url": "https://elpais.com/opinion/2025-07-14/aquel-verano-raro.html",
+        "index": 5
+      }
+    ],
+    "translated_titles": [
+      "Corruption in the system"
+    ],
+    "execution_time": 35.66415071487427,
+    "session_url": null,
+    "timestamp": "2025-07-20T15:39:37.600623"
+  }
+]

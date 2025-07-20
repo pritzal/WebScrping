@@ -1,0 +1,37 @@
+[
+  {
+    "browser": "Safari iOS Mobile Test",
+    "status": "failed",
+    "error": "Failed to create driver",
+    "articles": [],
+    "session_url": null
+  },
+  {
+    "browser": "Safari macOS Desktop Test",
+    "status": "failed",
+    "error": "Failed to create driver",
+    "articles": [],
+    "session_url": null
+  },
+  {
+    "browser": "Chrome Android Mobile Test",
+    "status": "failed",
+    "error": "Failed to create driver",
+    "articles": [],
+    "session_url": null
+  },
+  {
+    "browser": "Firefox macOS Desktop Test",
+    "status": "failed",
+    "error": "Failed to create driver",
+    "articles": [],
+    "session_url": null
+  },
+  {
+    "browser": "Chrome Windows 11 Desktop Test",
+    "status": "failed",
+    "error": "Failed to create driver",
+    "articles": [],
+    "session_url": null
+  }
+]

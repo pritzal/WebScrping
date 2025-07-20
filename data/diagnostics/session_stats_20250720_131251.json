@@ -1,0 +1,18 @@
+{
+  "session_id": "20250720_131251",
+  "timestamp": "2025-07-20T13:32:29.356112",
+  "statistics": {
+    "total_articles": 5,
+    "successful_extractions": 5,
+    "paywall_bypasses": 0,
+    "extraction_methods": {
+      "primary_selectors": 3,
+      "structured_data": 1,
+      "meta_tags": 1
+    },
+    "failure_reasons": {}
+  },
+  "total_failures": 0,
+  "total_paywall_detections": 5,
+  "paywall_detection_rate": 0.0
+}

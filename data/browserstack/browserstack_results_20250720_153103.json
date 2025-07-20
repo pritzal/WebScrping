@@ -1,0 +1,42 @@
+[
+  {
+    "browser": "Safari macOS Desktop Test",
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'get'",
+    "articles": [],
+    "session_url": null,
+    "timestamp": "2025-07-20T15:30:47.606092"
+  },
+  {
+    "browser": "Firefox macOS Desktop Test",
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'get'",
+    "articles": [],
+    "session_url": null,
+    "timestamp": "2025-07-20T15:30:48.412114"
+  },
+  {
+    "browser": "Chrome Android Mobile Test",
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'get'",
+    "articles": [],
+    "session_url": null,
+    "timestamp": "2025-07-20T15:30:56.506798"
+  },
+  {
+    "browser": "Safari iOS Mobile Test",
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'get'",
+    "articles": [],
+    "session_url": null,
+    "timestamp": "2025-07-20T15:30:58.838320"
+  },
+  {
+    "browser": "Chrome Windows 11 Desktop Test",
+    "status": "failed",
+    "error": "'NoneType' object has no attribute 'get'",
+    "articles": [],
+    "session_url": null,
+    "timestamp": "2025-07-20T15:31:02.562445"
+  }
+]
